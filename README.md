@@ -1,6 +1,5 @@
 # Projeto de Estatística Aplicada
-##oi
-#Oi
+
 ## 🧑‍💻 Autores  
 - Nome 1 (matrícula) - email  
 - Nome 2 (matrícula) - email  
