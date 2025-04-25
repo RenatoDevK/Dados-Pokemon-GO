@@ -1,9 +1,9 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Renato Miguel (202421250029) - email  
+- José Kauê (matrícula) - email  
+- Bruno de Paula (matrícula) - email  
 
 ## 🎯 Tema e Motivação  
 Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
