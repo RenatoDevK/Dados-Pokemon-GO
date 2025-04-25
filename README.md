@@ -3,7 +3,7 @@
 ## 🧑‍💻 Autores  
 - Renato Miguel (202421250029) - renato.miguel@academico.ifpb.edu.br  
 - José Kauê (202421250035) - alves.kaue@academico.ifpb.edu.br  
-- Bruno de Paula (matrícula) - email  
+- Bruno de Paula (202421250031) - paula.bruno@academico.ifpb.edu.br  
 
 ## 🎯 Tema e Motivação  
 Este projeto tem como objetivo mostrar características sobre os pokemons dentro do jogo Pokemon GO, características essas como tipos, atributos, status, raridades, conjunto de movimentos, status de batalha e estatísticas básicas. O tema foi escolhido com intuito de informar estatísticamente e de forma enxuta o sistema de jogo do Pokemon GO.
