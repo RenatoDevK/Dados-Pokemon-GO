@@ -1,32 +1,35 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Renato Miguel (202421250029) - email  
-- José Kauê (202421250035) - email  
+- Renato Miguel (202421250029) - renato.miguel@academico.ifpb.edu.br  
+- José Kauê (202421250035) - alves.kaue@academico.ifpb.edu.br  
 - Bruno de Paula (matrícula) - email  
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+Este projeto tem como objetivo mostrar características sobre os pokemons dentro do jogo Pokemon GO, características essas como tipos, atributos, status, raridades, conjunto de movimentos, status de batalha e estatísticas básicas. O tema foi escolhido com intuito de informar estatísticamente e de forma enxuta o sistema de jogo do Pokemon GO.
+
+Ele será de grande ajuda para quem quer aprofundar os conhecimentos em Pokemon GO, assim melhorando a jogabilidade do jogador, conhecimentos de batalha, tipos, raridades e etc.
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+  Gotta Analyze 'Em All: The Ultimate Pokémon GO Dataset
 
 - **Fonte:**  
-  (Link ou citação da base de dados)
+  https://www.kaggle.com/datasets/shreyasur965/pokemon-go/data
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+  O conjunto representa uma variedade de dados de um único pokemon, cria ferramentas para os jogadores otimizarem suas estratégias de jogo, apresenta fraquezas e vantagens de cada pokemon.   
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
+  Pois ele consegue selecionar várias variáveis de um pokemon e comparar com outros de forma simples, tornando mais fácil a compreensão e funcionalidade do sistema de jogo.
 
 ---
 
 ## ❓ Perguntas ou Hipóteses  
 *Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+- Existe algum status básico que seja mais presente que outros?.
+- Qual o tipo de pokémon mais utilizado comparado aos outros?
+- Qual a correlação dos itens do jogo, com a captura de pokemons com raridades diferentes?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
