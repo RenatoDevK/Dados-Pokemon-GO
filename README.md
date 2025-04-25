@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Autores  
 - Renato Miguel (202421250029) - email  
-- José Kauê (matrícula) - email  
+- José Kauê (202421250035) - email  
 - Bruno de Paula (matrícula) - email  
 
 ## 🎯 Tema e Motivação  
