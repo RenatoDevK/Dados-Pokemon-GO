@@ -1,4 +1,4 @@
-#*📚 Projeto de Estatística Aplicada – Prática 02*
+## **📚 Projeto de Estatística Aplicada – Prática 02**
 
 Nesta prática, você vai **conhecer e entender a estrutura do conjunto de dados**, antes de iniciar qualquer análise estatística.
 
