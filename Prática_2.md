@@ -6,11 +6,11 @@ O objetivo é se **familiarizar** com o dataset que você escolheu, observando:
 
 - Essas são as informações principais do dataset, pois ele cobre uma variedade de informções mais complexas.
 
-    ###Cobertura completa de 1007 Pokémon.
-    ###24 atributos para cada Pokémon, incluindo estatísticas de batalha, tipo e raridade
-    ###Informações sobre métodos de aquisição (selvagem, ovo, ataque, etc.)
-    ###Detalhes do conjunto de movimentos para movimentos rápidos e carregados
-    ###Dados da mecânica do jogo, como taxas de captura e fuga.
+    ## Cobertura completa de 1007 Pokémon.
+    ## 24 atributos para cada Pokémon, incluindo estatísticas de batalha, tipo e raridade
+    ## Informações sobre métodos de aquisição (selvagem, ovo, ataque, etc.)
+    ## Detalhes do conjunto de movimentos para movimentos rápidos e carregados
+    ## Dados da mecânica do jogo, como taxas de captura e fuga.
 
 - Como essas informações estão organizadas.
 
