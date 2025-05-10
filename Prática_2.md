@@ -12,39 +12,68 @@ O objetivo é se **familiarizar** com o dataset que você escolheu, observando:
     #### -Detalhes do conjunto de movimentos para movimentos rápidos e carregados
     #### -Dados da mecânica do jogo, como taxas de captura e fuga.
 
-- Como essas informações estão organizadas.
+- As informações estão organizadas em tabelas, gráficos de dispersão, mapa de calor de correlação de características numéricas.
 
-- Que tipo de variáveis existem (quantitativas ou qualitativas).
+- Quantitativas e Qualitativas.
 
 ---
 
 ## 🛠️ O que você deve fazer:
 
-1. **Importar as bibliotecas** necessárias para trabalhar com dados no Python (por exemplo, `pandas`).
+1. https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=1.
+2. https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=2.
 
-2. **Carregar o seu dataset** para dentro do ambiente de trabalho.
+6. **Carregar o seu dataset** para dentro do ambiente de trabalho.
 
-    - O arquivo pode estar no seu computador, na internet, em repositórios públicos ou em plataformas de datasets.
+    - https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=3.
 
-3. **Visualizar as primeiras linhas** do dataset para entender como as informações estão organizadas.
+7. **Visualizar as primeiras linhas** do dataset para entender como as informações estão organizadas.
+   
+    - https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=5
 
-4. **Descobrir o tamanho** do dataset:
+9. **Descobrir o tamanho** do dataset:
 
-    - Número de linhas (registros).
+    - https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=4.
 
-    - Número de colunas (variáveis).
+    - https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=6.
 
-5. **Listar todas as variáveis** disponíveis no dataset.
+10. **Listar todas as variáveis** disponíveis no dataset.
+    
+    - https://www.kaggle.com/code/shreyasur965/pokemon?scriptVersionId=191238467&cellId=4
 
-6. **Identificar o tipo de dado** de cada variável:
+12. **Identificar o tipo de dado** de cada variável:
 
-    - **Quantitativas**: variáveis que representam números e medidas.
+    - **Quantitativas**: Está contabilizado na tabela do ponto 13.
 
-    - **Qualitativas**: variáveis que representam categorias ou descrições.
+    - **Qualitativas**: Está contabilizado na tabela do ponto 13.
 
-7. **Organizar** essa classificação em uma pequena tabela para visualização.
+13. **Organizar** essa classificação em uma pequena tabela para visualização.
 
----
+| Variável             | Tipo de dado (pandas) | Classificação Estatística | Descrição breve                      |
+| -------------------- | --------------------- | ------------------------- | ------------------------------------ |
+| `#`                  | int64                 | Quantitativa              | Número na Pokédex                    |
+| `Name`               | object                | Qualitativa               | Nome do Pokémon                      |
+| `Type 1`             | object                | Qualitativa               | Tipo primário (ex: Água, Fogo)       |
+| `Type 2`             | object                | Qualitativa               | Tipo secundário (pode ser vazio)     |
+| `Total`              | int64                 | Quantitativa              | Soma dos stats base                  |
+| `HP`                 | int64                 | Quantitativa              | Vida base                            |
+| `Attack`             | int64                 | Quantitativa              | Ataque base                          |
+| `Defense`            | int64                 | Quantitativa              | Defesa base                          |
+| `Sp. Atk`            | int64                 | Quantitativa              | Ataque especial base                 |
+| `Sp. Def`            | int64                 | Quantitativa              | Defesa especial base                 |
+| `Speed`              | int64                 | Quantitativa              | Velocidade base                      |
+| `Generation`         | int64                 | Quantitativa (discreta)   | Geração do Pokémon (1 a 8)           |
+| `Legendary`          | bool / object         | Qualitativa (dicotômica)  | Se é lendário (True/False)           |
+| `Capture Rate`       | float64 / object      | Quantitativa              | Taxa base de captura                 |
+| `Flee Rate`          | float64 / object      | Quantitativa              | Taxa base de fuga                    |
+| `Fast Moves`         | object                | Qualitativa (lista)       | Ataques rápidos disponíveis          |
+| `Charged Moves`      | object                | Qualitativa (lista)       | Ataques carregados disponíveis       |
+| `Is Shiny Available` | bool / object         | Qualitativa (dicotômica)  | Se possui forma shiny disponível     |
+| `Is Egg Available`   | bool / object         | Qualitativa               | Se pode nascer de ovo                |
+| `Egg Distance (km)`  | float64 / object      | Quantitativa              | Distância para chocar (em km)        |
+| `Is Raid Boss`       | bool / object         | Qualitativa               | Se aparece em raids                  |
+| `Region`             | object                | Qualitativa               | Região de origem (Kanto, Johto etc.) |
+| `Form`               | object                | Qualitativa               | Forma especial (ex: Alolan)          |
 
 ## 🧠 Competências Trabalhadas
 
