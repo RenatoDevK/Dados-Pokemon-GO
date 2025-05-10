@@ -43,9 +43,9 @@ O objetivo é se **familiarizar** com o dataset que você escolheu, observando:
 
 12. **Identificar o tipo de dado** de cada variável:
 
-    - **Quantitativas**: Está contabilizado na tabela do ponto 13.
+    - **Quantitativas**: Está contabilizado na tabela do ponto 8.
 
-    - **Qualitativas**: Está contabilizado na tabela do ponto 13.
+    - **Qualitativas**: Está contabilizado na tabela do ponto 8.
 
 13. **Organizar** essa classificação em uma pequena tabela para visualização.
 
